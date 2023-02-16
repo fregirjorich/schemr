@@ -1,1 +1,1 @@
-Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
