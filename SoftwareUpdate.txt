@@ -1,1 +1,1 @@
-Update inference.cpp (bug) (#7279)
+OpenVino 2024.0.0 (#8726)
