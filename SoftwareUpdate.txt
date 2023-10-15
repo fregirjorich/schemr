@@ -1,1 +1,1 @@
-Update HTTP to HTTPS (#7548)
+Mkdocs annotations fixes (#7600)
