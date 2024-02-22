@@ -1,1 +1,1 @@
-added badges (#45)
+Fix TypeError in check_cfg() (#9245)
